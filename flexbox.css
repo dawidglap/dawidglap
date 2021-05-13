@@ -1,0 +1,57 @@
+html, body{
+  height: 100%;
+}
+#container{
+  border: 10px solid blue;
+  display: flex;
+
+}
+
+#nav{
+  order: 1;
+}
+
+#nav2{
+  order: 0;
+}
+
+#nav3{
+ order: -1;
+}
+
+
+
+
+
+div{
+  font-size: 30px;
+  font-weight: bold;
+  color: green;
+  text-align: center;
+}
+
+
+
+
+
+#nav{
+
+
+  border: 5px solid yellow;
+  background-color: beige;
+
+}
+
+#nav2{
+
+
+  background-color: orange;
+  border: 5px solid black;
+}
+
+#nav3{
+
+
+  background-color: grey;
+  border: 5px solid red;
+}
