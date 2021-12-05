@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dawidglap
 - 👀 I’m interested in any kind of sports
-- 🌱 I’m currently learning to become a full stack web developer
-- 💞️ I’m looking to collaborate on everything that i can
+- 🌱 I’m Full Stack Developer
 - 📫 How to reach me glapdawid@gmail.com
 
 <!---
