@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dawidglap
-- 👀 I’m interested in any kind of sports
 - 🌱 I’m Full Stack Developer
 - 📫 How to reach me glapdawid@gmail.com
 
