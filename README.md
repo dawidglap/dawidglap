@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @dawidglap
-- 🌱 I’m Full Stack Developer
-- 📫 How to reach me glapdawid@gmail.com
+I'm a Full-Stack Developer who enjoys writing clean code
+while turning complex problems into simple solutions!To date I have worked with the following technologies:
+
+HTML | CSS | Javascript | Bootstrap | PHP with Laravel Framework| MySql with Eloquent ORM | NodeJS | VueJS | Git | Github
 
 <!---
 dawidglap/dawidglap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
