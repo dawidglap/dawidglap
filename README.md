@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @dawidglap
-I'm a Full-Stack Developer who enjoys writing clean code
-while turning complex problems into simple solutions!To date I have worked with the following technologies:
+# Hello, I'm Dawid Glapiak! 👋
 
-HTML | CSS | Javascript | Bootstrap | PHP with Laravel Framework| MySql with Eloquent ORM | NodeJS | React | Git | Github
+## About Me
+I'm a Full Stack Web Developer with extensive experience as a freelancer. Currently based in Lüchingen, I specialize in creating tailored web solutions that enhance operational efficiency and user experience. I thrive in dynamic environments, always eager to embrace new challenges and opportunities for professional growth.
 
-<!---
-dawidglap/dawidglap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Check out my latest projects at [Webfast](https://webfast.ch).
+
+## Technical Skills
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **Frameworks/Libraries**: React, Next.js, Node.js, Laravel
+- **Databases**: MongoDB
+- **Tools**: Git, Microsoft Office, Mac OS
+
+## Languages
+- **Italian**: Native
+- **Polish**: Native
+- **German**: Intermediate (B1/B2)
+- **English**: Advanced (C1)
+- **Spanish**: Advanced (C1)
+
+
+## Connect with Me
+- 📧 **Email**: [d.glapiak@hotmail.it](mailto:d.glapiak@hotmail.it)
+
+Looking forward to collaborating on innovative projects that challenge the status quo and push the boundaries of technology!
+
