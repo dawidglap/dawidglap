@@ -20,7 +20,7 @@ I'm a Full Stack Web Developer with extensive experience as a freelancer. Curren
 
 
 ## Connect with Me
-- 📧 **Email**: [d.glapiak@hotmail.it](mailto:d.glapiak@hotmail.it)
+- 📧 **Email**: [hello@webfast.ch](mailto:hello@webfast.ch)
 
 Looking forward to collaborating on innovative projects that challenge the status quo and push the boundaries of technology!
 
